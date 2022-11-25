@@ -1,0 +1,21 @@
+// .cart a {
+// 	display: flex;
+// 	gap: 0.4rem;
+// 	color: #fff;
+// 	text-decoration: none;
+// 	position: relative;
+// 	font-size: 1.3rem;
+// 	&:hover {
+// 		color: var(--second-color);
+// 		// transform: scale(1.1);
+// 	}
+// 	&.active {
+// 		color: var(--second-color);
+// 	}
+// 	p {
+// 		position: absolute;
+// 		top: -1rem;
+// 		right: -1rem;
+// 		font-weight: 500;
+// 	}
+// }
